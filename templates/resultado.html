@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título da Página de Resultados</title>
+    <style>
+        .conteudo-centralizado {
+            border: 2px solid #000; /* Define a espessura e cor da borda */
+            margin: auto; /* Centraliza o contêiner */
+            padding: 20px; /* Espaço entre o conteúdo e a borda */
+            max-width: 400px; /* Largura máxima do contêiner */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra suave (opcional) */
+            border-radius: 10px; /* Bordas arredondadas (opcional) */
+        }
+    </style>
+</head>
+<body>
+    <div class="conteudo-centralizado">
+
+    <h1>Resultado da Numerologia</h1>
+    {% for nome, numero, vibracao in resultados %}
+        <p><strong>Nome:</strong> {{ nome }}, <strong>Número:</strong> {{ numero }}, <strong>Vibração:</strong> {{ vibracao }}</p>
+    {% endfor %}
+    <h2>Soma Total: {{ soma_total }} ({{ vibracao_final }})</h2>
+    <a href="/">Voltar</a>
+<!-- Inserir após os resultados, se desejado -->
+
+<p>Quer conhecer sua verdadeira Missão de Vida? <a href="https://mapas.codigoastral.com.br/pedidos/">Mapa Numerológico Cabalístico</a>.</p>
+
+<p>Para mais informações, visite nosso <a href="https://codigoastral.com.br/">Código Astral</a>.</p>
+</div>
+</body>
+</html>

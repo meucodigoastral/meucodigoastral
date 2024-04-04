@@ -1,0 +1,14 @@
+# Ignorar arquivos de imagem
+*.jpg
+*.jpeg
+*.png
+*.ico
+
+# Ignorar arquivos de instalação
+*.exe
+
+# Ignorar diretórios específicos
+__pycache__/
+venv/
+build/
+dist/

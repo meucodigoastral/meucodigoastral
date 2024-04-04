@@ -1,0 +1,53 @@
+Licença de Uso do Software "Mantra do Nome"
+===========================================
+
+IMPORTANTE: LEIA ESTE ACORDO COM ATENÇÃO ANTES DE CONTINUAR COM A INSTALAÇÃO E USO DO SOFTWARE "MANTRA DO NOME" DESENVOLVIDO PELA CÓDIGO ASTRAL.
+
+Ao instalar, copiar, ou de outra forma usar o software "Mantra do Nome", você concorda em ficar vinculado aos termos deste Acordo de Licença de Usuário Final (EULA). Se você não concordar com os termos deste Acordo, não instale ou use o "Mantra do Nome".
+
+LICENÇA DE SOFTWARE
+-------------------
+
+A Código Astral concede a você uma licença revogável, não exclusiva, não transferível, limitada para instalar e usar o software "Mantra do Nome" estritamente de acordo com os termos deste Acordo.
+
+USO PERMITIDO
+-------------
+
+Você está autorizado a:
+- Instalar e usar o software para fins pessoais e não comerciais.
+- Copiar o software para fins de backup, desde que todas as cópias contenham todos os avisos de propriedade do software original.
+
+RESTRIÇÕES
+----------
+
+Você concorda que não irá:
+- Modificar, traduzir, adaptar ou de outra forma criar obras derivadas do software.
+- Alugar, arrendar, emprestar, vender, sublicenciar, ou de outra forma transferir quaisquer direitos ao software.
+- Remover quaisquer avisos de propriedade ou etiquetas do software.
+- Usar o software para qualquer propósito que viole leis ou regulamentos locais, estaduais, nacionais ou internacionais.
+
+DIREITOS AUTORAIS
+-----------------
+
+"Mantra do Nome" é protegido por leis de direitos autorais e tratados internacionais, assim como outras leis de propriedade intelectual e tratados. O "Mantra do Nome" é licenciado, não vendido.
+
+LIMITAÇÃO DE RESPONSABILIDADE
+-----------------------------
+
+A Código Astral não será responsável por quaisquer danos indiretos, incidentais, especiais, punitivos ou consequenciais resultantes do uso ou incapacidade de usar o "Mantra do Nome".
+
+TERMINAÇÃO
+----------
+
+Este Acordo será automaticamente rescindido se você violar qualquer destes termos e condições. A terminação resultará na desativação ou eliminação do seu acesso ao software "Mantra do Nome", e você deverá destruir todas as cópias do software em sua posse.
+
+CONTATO
+-------
+
+Para esclarecimentos sobre este acordo ou para pedir permissão para usos não cobertos por este EULA, por favor, entre em contato conosco:
+
+Código Astral
+Site: https://codigoastral.com.br/
+Pedidos: https://mapas.codigoastral.com.br/pedidos/
+
+Data da última atualização: 31 de Março de 2024.
