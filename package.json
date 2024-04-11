@@ -1,0 +1,21 @@
+{
+  "name": "mantra-nome",
+  "version": "1.0.0",
+  "description": "Programa de Calculo da vibração do Nome Social",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "meucodigoastral"
+  },
+  "keywords": [
+    "numerologia",
+    "mantra",
+    "nome",
+    "social"
+  ],
+  "author": "Codigo Astral",
+  "license": "SEE LICENSE IN LICENCA.TXT"
+}
